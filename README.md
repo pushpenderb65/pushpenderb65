@@ -67,34 +67,56 @@ pushpender = {
 
 ---
 
-## 🔬 Featured Project
+## 🚀 Featured Projects
 
-### 🌍 World Clock
+### 📊 [E-Commerce Dashboard](https://github.com/pushpenderb65/E-Commerce-Dashboard)
+An analytics dashboard project focused on exploring e-commerce data and presenting useful business insights.
 
-A responsive project that displays live time across multiple time zones. This project demonstrates attention to detail, user-focused design, and practical problem solving.
+### 📈 [Sales Dashboard — Power BI](https://github.com/pushpenderb65/Sales-Dash-Power-BI)
+A Power BI dashboard project for understanding sales performance through interactive visualizations.
 
-- Live local time and detected timezone
-- New Delhi, New York, London, and Tokyo by default
-- Add or remove locations
-- 12-hour and 24-hour formats
-- Light and dark themes
+### 🛒 [Retail Sales Analysis](https://github.com/pushpenderb65/Retail_Sales_DA)
+A data analysis project focused on retail sales exploration and discovering patterns in business data.
 
-[View the World Clock project](./digital-clock/)
+### 🏏 [IPL Data Analysis](https://github.com/pushpenderb65/IPL-Data-Anlys)
+An exploratory analysis project using IPL data to find trends and insights through visualizations.
+
+### 🎓 [Student Placement Prediction](https://github.com/pushpenderb65/Student_Placement_pdic)
+A machine learning project involving data cleaning, exploratory data analysis, encoding, and prediction.
+
+### 🎬 [Movie Recommendation System](https://github.com/pushpenderb65/Movies-Recommendation-System)
+A recommendation-focused machine learning project built around movie data.
+
+### 🩺 [Heart Disease Prediction](https://github.com/pushpenderb65/HeartDisease_Predict)
+A predictive analytics project using machine learning techniques to study heart disease data.
+
+### 🧠 [Mental Health Prediction](https://github.com/pushpenderb65/Mental-Health-Prediction)
+A machine learning project exploring prediction from mental-health-related data.
+
+[View all repositories →](https://github.com/pushpenderb65?tab=repositories)
 
 ---
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pushpenderb65&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Pushpender's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpenderb65&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pushpenderb65&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" alt="Pushpender's GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpenderb65&layout=compact&langs_count=8&exclude=html,css&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Pushpender's most used languages" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pushpenderb65&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com/?user=pushpenderb65&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Pushpender's GitHub contribution streak" />
 </div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pushpenderb65&theme=tokyonight" alt="GitHub profile contribution details" width="95%" />
+</div>
+
+> **Note:** GitHub statistics services may take a little time to refresh after new commits. Public repositories are included automatically; private-repository statistics require the appropriate service token configuration.
 
 ---
 
